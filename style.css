@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 130vh;
+    background-color: black;
+    padding-top: 60px;
+    padding-bottom: 40px;
+
+}
+.box{
+    margin: auto;
+    height: 115vh;
+    width: 90%;
+    background-color: rgb(237, 244, 247);
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+#logo{
+    height: 40px;
+    margin-left: 15px;
+}
+.navlist ul{
+    display: flex;
+    list-style: none;
+    font-size: small;
+    color: rgb(82, 80, 80);
+    font-weight: bold;
+    
+}
+.navlist ul li{
+    width: 90px;
+}
+.secondary-links ul{
+    display: flex;
+    list-style: none;
+    font-size: small;
+    color: rgb(82, 80, 80);
+    font-weight: bold;
+}
+.secondary-links ul li{
+    width: 150px;
+}
+.download-btn{
+    height: 40px;
+    width: 10%;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.text-section{
+    margin-left: 50px;
+    font-size: 43px;
+    margin-top: 30px;
+}
+#logo2{
+    margin-top: 40px;
+    margin-left: 44px;
+}
+#logo3{
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.text-section-2 ul{
+    display: flex;
+    list-style: none;
+margin-left: 45px;
+margin-top: 30px;
+}
+.text-section-2 ul li{
+    width: 170px;
+    
+}
+.text-section-3{
+    margin-left: 800px;
+    margin-top: -600px;
+    color: rgb(54, 54, 54);
+    font-weight: lighter;
+    font-size: 14px;
+}
+#logo4{
+    margin-left: 820px;
+}
+.text-section-4{
+    margin-left: 800px;
+    margin-top: 40px;
+}
+.text-section-4 h2{
+    margin-bottom: 40px;
+
+}
+.text-section-4 h3{
+    font-weight: lighter;
+    color: rgb(54, 54, 54);
+    font-size: 16px;
+
+}
+.text-section-4 h4{
+margin-top: 60px;
+}
